@@ -25,7 +25,7 @@ Este es un espacio para crear, contribuir y aprender sobre Métodos Numéricos p
     7. Bases de Datos (Pandas)
     
 3. **Introducción a Métodos Numéricos**
-    1. ¿Qué es un métodonumérico?
+    1. ¿Qué es un método numérico?
     2. [Modelamiento Matemático](Cuadernos/Intro_Model.ipynb)
     3. Ejemplos de Modelos
     4. Derivadas (Crash Course)
