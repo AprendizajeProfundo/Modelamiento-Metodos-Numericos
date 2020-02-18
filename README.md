@@ -22,7 +22,7 @@ Este es un espacio para crear, contribuir y aprender sobre Métodos Numéricos p
     4. [Cálculos Simples usando Numpy](Cuadernos/Intro_Numpy.ipynb)
     5. Introducción a Tensores
     6. [Visualización de Datos (Matplotlib)](Cuadernos/Intro_Graphics.ipynb)
-    7. Manejo de Datos (Pandas)
+    7. [Manejo de Datos (Pandas)](https://github.com/ucmadcursoPythonyR/2020/blob/master/Cuadernos/Intro_Pandas.ipynb)
     
 3. **Introducción a Métodos Numéricos**
     1. ¿Qué es un método numérico?
