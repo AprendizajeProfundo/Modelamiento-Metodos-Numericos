@@ -21,7 +21,7 @@ Este es un espacio para crear, contribuir y aprender sobre Métodos Numéricos p
     3. [Módulos de Python (Paquetes, Métodos, Funciones)](Cuadernos/Paquetes.ipynb)
     4. [Cálculos Simples usando Numpy](Cuadernos/Intro_Numpy.ipynb)
     5. Introducción a Tensores
-    6. Visualización de Datos (Matplotlib)
+    6. [Visualización de Datos (Matplotlib)](Cuadernos/Intro_Graphics.ipynb)
     7. Manejo de Datos (Pandas)
     
 3. **Introducción a Métodos Numéricos**
