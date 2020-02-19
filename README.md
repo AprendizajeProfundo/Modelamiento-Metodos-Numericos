@@ -20,7 +20,7 @@ Este es un espacio para crear, contribuir y aprender sobre Métodos Numéricos p
     2. [Tipos de Datos](Cuadernos/Tipos_Datos.ipynb)
     3. [Módulos de Python (Paquetes, Métodos, Funciones)](Cuadernos/Paquetes.ipynb)
     4. [Cálculos Simples usando Numpy](Cuadernos/Intro_Numpy.ipynb)
-    5. Introducción a Tensores
+    5. [Introducción a Tensores](Cuadernos/Intro_Tensors.ipynb)
     6. [Visualización de Datos (Matplotlib)](Cuadernos/Intro_Graphics.ipynb)
     7. [Manejo de Datos (Pandas)](https://github.com/ucmadcursoPythonyR/2020/blob/master/Cuadernos/Intro_Pandas.ipynb)
     
