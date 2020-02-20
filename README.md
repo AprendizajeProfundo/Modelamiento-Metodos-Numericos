@@ -19,8 +19,8 @@ Este es un espacio para crear, contribuir y aprender sobre Métodos Numéricos p
     1. [¿Qué es Python? Primeros Pasos](Cuadernos/Intro_Python.ipynb)
     2. [Tipos de Datos](Cuadernos/Tipos_Datos.ipynb)
     3. [Módulos de Python (Paquetes, Métodos, Funciones)](Cuadernos/Paquetes.ipynb)
-    4. [Cálculos Simples usando Numpy](Cuadernos/Intro_Numpy.ipynb)
-    5. [Introducción a Tensores](Cuadernos/Intro_Tensors.ipynb)
+    4. [Introducción a Tensores](Cuadernos/Intro_Tensors.ipynb)
+    5. [Cálculos Simples usando Numpy](Cuadernos/Intro_Numpy.ipynb)
     6. [Visualización de Datos (Matplotlib)](Cuadernos/Intro_Graphics.ipynb)
     7. [Manejo de Datos (Pandas)](https://github.com/ucmadcursoPythonyR/2020/blob/master/Cuadernos/Intro_Pandas.ipynb)
     
@@ -29,4 +29,5 @@ Este es un espacio para crear, contribuir y aprender sobre Métodos Numéricos p
     2. [Modelamiento Matemático](Cuadernos/Intro_Model.ipynb)
     3. [Ejemplos de Modelos](Cuadernos/Ejemplos_Model.ipynb)
     4. Derivadas (Crash Course)
+    5. Método de Euler
     5. Diferenciación Automática
