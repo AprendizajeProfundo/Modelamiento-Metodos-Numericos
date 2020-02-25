@@ -31,3 +31,4 @@ Este es un espacio para crear, contribuir y aprender sobre Métodos Numéricos p
     4. Derivadas (Crash Course)
     5. Método de Euler
     5. Diferenciación Automática
+    6. [Est. Bayesiana](https://github.com/EtCol/Estadistica/blob/master/Cuadernos/Intro_Bayesiana.ipynb)
