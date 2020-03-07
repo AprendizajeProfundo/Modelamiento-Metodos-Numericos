@@ -9,7 +9,7 @@ Este es un espacio para crear, contribuir y aprender sobre Métodos Numéricos p
 
 1. **Preliminares**
     1. Instalación Anaconda
-    2. [Alternativas Online](Cuadernos/Alternativas_Online.ipynb)
+    2. [Alternativas Online](./Cuadernos/Alternativas_Online.ipynb)
     3. [Lenguaje Markdown](https://guides.github.com/features/mastering-markdown/)
     4. [Imágenes en Jupyterlab](Cuadernos/Imagenes_Jupyter.ipynb)
     6. [Ambientes de Trabajo](Cuadernos/Ambientes.ipynb)
