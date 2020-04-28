@@ -29,5 +29,59 @@ Este es un espacio para crear, contribuir y aprender sobre Métodos Numéricos p
     2. [Modelamiento Matemático](./Cuadernos/Intro_Model.ipynb)
     3. [Ejemplos de Modelos](./Cuadernos/Ejemplos_Model.ipynb)
     4. Derivadas (Crash Course)
-    5. Método de Euler
-    5. Diferenciación Automática
+        1. Derivadas Matemáticas
+        2. Derivadas Numéricas
+        
+4. **Ecuaciones Diferenciales**
+    1. **Primer Orden**
+        1. Una Dimensión
+            1. Método de Euler
+            2. Tipos de Error
+            3. Desventajas del Método de Euler
+            4. Método de Runge-Kutta
+            5. Tabla de Butcher
+            6. Campo de Pendientes
+        2. Dos Dimensiones
+            1. Depredador-Presa
+            2. Espacio Fase
+            2. Modelos Competitivos
+            3. Campo de Direcciones
+        3. Tres Dimensiones
+            1. Modelos Epidemiológicos: COVID-19
+            2. Ecuaciones de Lorenz
+            3. Atractor de Rössler
+        4. N Dimensiones
+            1. Modelos Competitivos
+            2. Métodos Numéricos Vectoriales
+        5. Modelamiento Matemático
+            1. Datos Reales
+            2. Regresión Lineal
+            3. Re-ajuste de Modelos
+    2. **Segundo Orden**
+        1. Una Dimension
+            1. Segunda Ley de Newton. Reducción a Primer Orden.
+            2. Bungee con Cuerda
+            3. Masa-Resorte
+            4. Funciones Especiales (Bessel, Airy, Péndulo)
+            5. Ley de Gravitación Universal
+        2. Dos Dimensiones
+            1. Bungee 2D
+            2. Modelos generados por los estudiantes
+        3. Tres dimensiones
+            1. Bungee 3D
+            2. Otros ejemplos
+            3. Introducción a Processing
+    3. **Tercer Orden y más allá**
+        1. Reducción a sistemas de Primer Orden
+        2. Interpretación. Estudio de caso
+        
+4. **Animación en Programación**
+    1. Bases de Processing
+    2. Animaciones básicas
+    3. Simulación de sistemas físicos
+    4. Péndulo Doble
+    5. Arte y Ciencia
+    6. Sensores. Generacion de Datos.
+    
+5. **Introducción a Machine Learning**
+        
