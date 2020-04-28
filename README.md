@@ -34,26 +34,26 @@ Este es un espacio para crear, contribuir y aprender sobre Métodos Numéricos p
         
 4. **Ecuaciones Diferenciales**
     1. **Primer Orden**
-        1. **Una Dimensión**
+        1.**Una Dimensión**
             1. Método de Euler
             2. Tipos de Error
             3. Desventajas del Método de Euler
             4. Método de Runge-Kutta
             5. Tabla de Butcher
             6. Campo de Pendientes
-        2. **Dos Dimensiones**
+        2.**Dos Dimensiones**
             1. Depredador-Presa
             2. Espacio Fase
             2. Modelos Competitivos
             3. Campo de Direcciones
-        3. Tres Dimensiones
+        3.**Tres Dimensiones**
             1. Modelos Epidemiológicos: COVID-19
             2. Ecuaciones de Lorenz
             3. Atractor de Rössler
-        4. N Dimensiones
+        4.**N Dimensiones**
             1. Modelos Competitivos
             2. Métodos Numéricos Vectoriales
-        5. Modelamiento Matemático
+        5.**Modelamiento Matemático**
             1. Datos Reales
             2. Regresión Lineal
             3. Re-ajuste de Modelos
