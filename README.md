@@ -49,14 +49,14 @@ Este es un espacio para crear, contribuir y aprender sobre Métodos Numéricos p
         3. **Tres Dimensiones**
             1. [Modelos Epidemiológicos: COVID-19](.Cuadernos/COVID-19-Point.ipynb)
             2. [Ecuaciones de Lorenz](.Cuadernos/Lorenz-Ppint.ipynb)
-            3. [Atractor de Rössler](.Cuadernos/Rösler-Point.ipynb)
-            4. [Atractor de Lu-Chen](.Cuadernos/Multiscroll-Point.ipynb)
-            5. [Atractor de Rabinovich-Fabrikant](./Cuadernos/Rabinovich-Fabrikant-Point.ipynb)
+            3. [Atractor de Lu-Chen](.Cuadernos/Multiscroll-Point.ipynb)
+            4. [Atractor de Rabinovich-Fabrikant](./Cuadernos/Rabinovich-Fabrikant-Point.ipynb)
         4. **N Dimensiones**
             1. Modelos Competitivos
             2. Métodos Numéricos Vectoriales
+            3. [Atractor de Rössler](.Cuadernos/Rösler.ipynb)
         5. **Modelamiento Matemático**
-            1. Datos Reales
+            1. [Datos Reales](./Cuadernos/Datos_Reales.ipynb)
             2. Regresión Lineal
             3. Re-ajuste de Modelos
     2. **Segundo Orden**
