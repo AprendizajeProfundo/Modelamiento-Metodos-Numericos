@@ -1,4 +1,4 @@
-# Métodos Numéricos
+# Modelamiento Matemático y Métodos Numéricos
 **Universidad Central**
 
 *Elaborado por Daniel Montenegro* *
