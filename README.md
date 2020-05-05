@@ -35,12 +35,12 @@ Este es un espacio para crear, contribuir y aprender sobre Métodos Numéricos p
 4. **Ecuaciones Diferenciales**
     1. **Primer Orden**
         1. **Una Dimensión**
-            1. Método de Euler
+            1. [Método de Euler](./Cuadernos/MN_Euler.ipynb)
             2. Tipos de Error
-            3. Desventajas del Método de Euler
-            4. Método de Runge-Kutta
-            5. Tabla de Butcher
-            6. Campo de Pendientes
+            3. [Desventajas del Método de Euler](./Cuadernos/MN_EulerFalla.ipynb)
+            4. [Método de Runge-Kutta](./Cuadernos/MN_RK.ipynb)
+            5. [Tabla de Butcher](./Cuadernos/MN_Butcher.ipynb)
+            6. [Campo de Pendientes](./Cuadernos/Slope_Field.ipynb)
         2. **Dos Dimensiones**
             1. Depredador-Presa
             2. Espacio Fase
