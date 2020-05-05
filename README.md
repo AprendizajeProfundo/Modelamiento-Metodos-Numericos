@@ -45,14 +45,14 @@ Este es un espacio para crear, contribuir y aprender sobre Modelamiento y Métod
             1. Depredador-Presa
             2. Espacio Fase
             2. Modelos Competitivos
-            3. Campo de Direcciones
+            3. [Campo de Direcciones](./Cuadernos/Dir_Field.ipynb)
         3. **Tres Dimensiones**
             1. [Modelos Epidemiológicos: COVID-19](./Cuadernos/COVID-19-Point.ipynb)
             2. [Ecuaciones de Lorenz](./Cuadernos/Lorenz-Point.ipynb)
             3. [Atractor de Lu-Chen](./Cuadernos/Multiscroll-Point.ipynb)
             4. [Atractor de Rabinovich-Fabrikant](./Cuadernos/Rabinovich-Fabrikant-Point.ipynb)
         4. **N Dimensiones**
-            1. Modelos Competitivos
+            1. [Modelos Competitivos](./Cuadernos/Modelos-Competitivos.ipynb)
             2. Métodos Numéricos Vectoriales
             3. [Atractor de Rössler](./Cuadernos/Rösler.ipynb)
         5. **Modelamiento Matemático**
@@ -62,16 +62,17 @@ Este es un espacio para crear, contribuir y aprender sobre Modelamiento y Métod
     2. **Segundo Orden**
         1. **Una Dimensión**
             1. Segunda Ley de Newton. Reducción a Primer Orden.
-            2. Bungee con Cuerda
-            3. Masa-Resorte
-            4. Funciones Especiales (Bessel, Airy, Péndulo)
-            5. Ley de Gravitación Universal
+            2. [Salto con Bungee](./Cuadernos/Bungee_1D.ipynb)
+            3. [Bungee con Cuerda](./Cuadernos/Bungee_1D_Cord.ipynb)
+            4. Masa-Resorte
+            5. Funciones Especiales (Bessel, Airy, Péndulo)
+            6. Ley de Gravitación Universal
         2. **Dos Dimensiones**
-            1. Bungee 2D
-            2. Modelos generados por los estudiantes
+            1. [Bungee 2D](./Cuadernos/Bungee_2D_Cord.ipynb)
+            2. Más ejemplos
         3. **Tres dimensiones**
-            1. Bungee 3D
-            2. Otros ejemplos
+            1. [Bungee 3D](./Cuadernos/Bungee_3D.ipynb)
+            2. Más ejemplos
             3. Introducción a Processing
     3. **Tercer Orden y más allá**
         1. Reducción a sistemas de Primer Orden
