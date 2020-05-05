@@ -47,9 +47,11 @@ Este es un espacio para crear, contribuir y aprender sobre Métodos Numéricos p
             2. Modelos Competitivos
             3. Campo de Direcciones
         3. **Tres Dimensiones**
-            1. Modelos Epidemiológicos: COVID-19
-            2. Ecuaciones de Lorenz
-            3. Atractor de Rössler
+            1. [Modelos Epidemiológicos: COVID-19](.Cuadernos/COVID-19-Point.ipynb)
+            2. [Ecuaciones de Lorenz](.Cuadernos/Lorenz-Ppint.ipynb)
+            3. [Atractor de Rössler](.Cuadernos/Rösler-Point.ipynb)
+            4. [Atractor de Lu-Chen](.Cuadernos/Multiscroll-Point.ipynb)
+            5. [Atractor de Rabinovich-Fabrikant](./Cuadernos/Rabinovich-Fabrikant-Point.ipynb)
         4. **N Dimensiones**
             1. Modelos Competitivos
             2. Métodos Numéricos Vectoriales
