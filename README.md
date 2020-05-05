@@ -3,7 +3,7 @@
 
 *Elaborado por Daniel Montenegro* *
 
-Este es un espacio para crear, contribuir y aprender sobre Métodos Numéricos para la Universidad Central.
+Este es un espacio para crear, contribuir y aprender sobre Modelamiento y Métodos Numéricos.
 
 ## Contenido
 
