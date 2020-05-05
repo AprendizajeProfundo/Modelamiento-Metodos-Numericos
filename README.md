@@ -1,7 +1,8 @@
 # Modelamiento Matemático y Métodos Numéricos
-**Universidad Central**
 
-*Elaborado por Daniel Montenegro* *
+Colaboradores Actuales:
+
+*Carlos Isaac Zainea, Daniel Montenegro y Luis Campos*
 
 Este es un espacio para crear, contribuir y aprender sobre Modelamiento y Métodos Numéricos.
 
