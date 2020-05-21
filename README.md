@@ -1,6 +1,6 @@
 # Modelamiento Matemático y Métodos Numéricos
 
-Colaboradores Actuales:
+**Colaboradores Actuales:**
 
 *Carlos Isaac Zainea, Daniel Montenegro y Luis Campos*
 
@@ -23,7 +23,7 @@ Este es un espacio para crear, contribuir y aprender sobre Modelamiento y Métod
     4. [Introducción a Tensores](./Cuadernos/Intro_Tensors.ipynb)
     5. [Cálculos Simples usando Numpy](./Cuadernos/Intro_Numpy.ipynb)
     6. [Visualización de Datos (Matplotlib)](./Cuadernos/Intro_Graphics.ipynb)
-    7. [Manejo de Datos (Pandas)](https://github.com/ucmadcursoPythonyR/2020/blob/master/Cuadernos/Intro_Pandas.ipynb)
+    7. [Manejo de Datos (Pandas)](./Cuadernos/Intro_Pandas.ipynb)
     
 3. **Introducción a Métodos Numéricos**
     1. ¿Qué es un método numérico?
