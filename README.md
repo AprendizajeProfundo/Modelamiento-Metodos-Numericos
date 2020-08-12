@@ -9,7 +9,7 @@ Este es un espacio para crear, contribuir y aprender sobre Modelamiento y Métod
 ## Contenido
 
 1. **Preliminares**
-    1. Instalación Anaconda
+    1. Instalación Anaconda(https://github.com/AprendizajeProfundo/2020/blob/master/Cuadernos/Instalaci%C3%B3n%20de%20Anaconda.ipynb)
     2. [Alternativas Online](./Cuadernos/Alternativas_Online.ipynb)
     3. [Lenguaje Markdown](https://guides.github.com/features/mastering-markdown/)
     4. [Imágenes en Jupyterlab](./Cuadernos/Imagenes_Jupyter.ipynb)
