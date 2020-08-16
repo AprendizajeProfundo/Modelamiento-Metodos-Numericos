@@ -17,7 +17,7 @@ Este es un espacio para crear, contribuir y aprender sobre Modelamiento y Métod
     7. [Instalación de Kernels](./Cuadernos/Instalando_Kernels.ipynb)
     
 2. **Introducción a Python**
-    1. [¿Qué es Python? Primeros Pasos](./Cuadernos/Intro_Python.ipynb)[NbView](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Modelamiento-Metodos-Numericos/blob/master/Cuadernos/Intro_Python.ipynb)
+    1. [¿Qué es Python? Primeros Pasos](./Cuadernos/Intro_Python.ipynb) [[NbView](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Modelamiento-Metodos-Numericos/blob/master/Cuadernos/Intro_Python.ipynb)] [[Binder](https://mybinder.org/v2/gh/AprendizajeProfundo/Modelamiento-Metodos-Numericos/master?filepath=Cuadernos/Intro_Python.ipynb)]
     2. [Tipos de Datos](./Cuadernos/Tipos_Datos.ipynb)
     3. [Módulos de Python (Paquetes, Métodos, Funciones)](./Cuadernos/Paquetes.ipynb)
     4. [Introducción a Tensores](./Cuadernos/Intro_Tensors.ipynb)
