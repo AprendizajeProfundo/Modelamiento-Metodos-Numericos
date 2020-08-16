@@ -1,14 +1,15 @@
 # Modelamiento Matemático y Métodos Numéricos
-**Universidad Central**
 
-*Elaborado por Daniel Montenegro* *
+**Colaboradores Actuales:**
+
+*Carlos Isaac Zainea, Daniel Montenegro y Luis Campos*
 
 Este es un espacio para crear, contribuir y aprender sobre Modelamiento y Métodos Numéricos.
 
 ## Contenido
 
 1. **Preliminares**
-    1. Instalación Anaconda
+    1. [Instalación Anaconda](https://github.com/AprendizajeProfundo/2020/blob/master/Cuadernos/Instalaci%C3%B3n%20de%20Anaconda.ipynb)
     2. [Alternativas Online](./Cuadernos/Alternativas_Online.ipynb)
     3. [Lenguaje Markdown](https://guides.github.com/features/mastering-markdown/)
     4. [Imágenes en Jupyterlab](./Cuadernos/Imagenes_Jupyter.ipynb)
@@ -22,7 +23,7 @@ Este es un espacio para crear, contribuir y aprender sobre Modelamiento y Métod
     4. [Introducción a Tensores](./Cuadernos/Intro_Tensors.ipynb)
     5. [Cálculos Simples usando Numpy](./Cuadernos/Intro_Numpy.ipynb)
     6. [Visualización de Datos (Matplotlib)](./Cuadernos/Intro_Graphics.ipynb)
-    7. [Manejo de Datos (Pandas)](https://github.com/ucmadcursoPythonyR/2020/blob/master/Cuadernos/Intro_Pandas.ipynb)
+    7. [Manejo de Datos (Pandas)](./Cuadernos/Intro_Pandas.ipynb)
     
 3. **Introducción a Métodos Numéricos**
     1. ¿Qué es un método numérico?
