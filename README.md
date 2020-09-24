@@ -37,7 +37,7 @@ Este es un espacio para crear, contribuir y aprender sobre Modelamiento y Métod
     1. **Primer Orden**
         1. **Una Dimensión**
             1. [Método de Euler](./Cuadernos/MN_Euler.ipynb)
-            2. Tipos de Error
+            2. [Tipos de Error](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Modelamiento-Metodos-Numericos/blob/master/Cuadernos/Tipos_de_Error.ipynb)
             3. [Desventajas del Método de Euler](./Cuadernos/MN_EulerFalla.ipynb)
             4. [Método de Runge-Kutta](./Cuadernos/MN_RK.ipynb)
             5. [Tabla de Butcher](./Cuadernos/MN_Butcher.ipynb)
